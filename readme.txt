@@ -4,7 +4,7 @@ Tags: visitors, tracking, reverse dns, geolocation, analytics
 Requires at least: 5.8
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.1.0
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,6 +53,13 @@ Filnamnsformat: `vem-vare-{locale}.po` (t.ex. `vem-vare-de_DE.po` för tyska).
 
 == Changelog ==
 
+= 1.2.0 — 2026-03-28 =
+* Nytt: Klickbara organisationsnamn för svenska besökare — öppnar sökning på Allabolag.se
+* Nytt: Länken söker automatiskt på organisationsnamn + stad
+* Nytt: Extern länk-ikon visas bredvid svenska organisationer
+* Förbättrad: Org-kolumnen har hover-effekt med rosa highlight för svenska besökare
+* Version bump till 1.2.0
+
 = 1.1.0 — 2026-03-28 =
 * Nytt: Klickbar landsfiltrering med chips — visar antal besökare och procent per land
 * Nytt: "Besökare per land"-panel med expanderbar vy
@@ -84,6 +91,9 @@ Filnamnsformat: `vem-vare-{locale}.po` (t.ex. `vem-vare-de_DE.po` för tyska).
 * Ren avinstallation
 
 == Upgrade Notice ==
+
+= 1.2.0 =
+Svenska organisationer länkas nu till Allabolag.se för snabb företagsinfo.
 
 = 1.1.0 =
 Ny landsfiltrering med visuella chips och engelskt språkstöd.

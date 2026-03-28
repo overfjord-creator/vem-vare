@@ -239,9 +239,15 @@
                 const dns = v.reverse_dns
                     ? `<span class="vv-dns" title="${esc(v.reverse_dns)}">${esc(v.reverse_dns)}</span>`
                     : '<span class="vv-dns-empty">&mdash;</span>';
-                const org = v.org
-                    ? `<span class="vv-org" title="${esc(v.org)}">${esc(v.org)}</span>`
-                    : '<span class="vv-dns-empty">&mdash;</span>';
+                let org;
+                if (v.org && v.country_code === 'SE') {
+                    const abUrl = 'https://www.allabolag.se/bransch-s%C3%B6k?q=' + encodeURIComponent(v.org + (v.city ? ' ' + v.city : ''));
+                    org = `<a href="${abUrl}" target="_blank" rel="noopener noreferrer" class="vv-org vv-org-link" title="${esc(v.org)} — Sök på Allabolag">${esc(v.org)} <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a>`;
+                } else if (v.org) {
+                    org = `<span class="vv-org" title="${esc(v.org)}">${esc(v.org)}</span>`;
+                } else {
+                    org = '<span class="vv-dns-empty">&mdash;</span>';
+                }
                 const comment = v.comment
                     ? `<span class="vv-comment-text" title="${esc(v.comment)}" data-id="${v.id}">${esc(v.comment)}</span>`
                     : `<span class="vv-no-comment" data-id="${v.id}">${esc(__('addComment'))}</span>`;

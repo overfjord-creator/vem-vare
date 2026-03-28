@@ -3,7 +3,7 @@
  * Plugin Name: Vem vare?
  * Plugin URI: https://example.com/vem-vare
  * Description: Identifiera dina webbplatsbesökare med IP-spårning, Reverse DNS, geolokalisering och kommentarer. Inspirerat av Leadinfo.
- * Version: 1.1.0
+ * Version: 1.2.0
  * Author: Vem vare? Team
  * Author URI: https://example.com
  * License: GPL v2 or later
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin constants
-define( 'VV_VERSION', '1.1.0' );
+define( 'VV_VERSION', '1.2.0' );
 define( 'VV_DB_VERSION', '1.0.0' );
 define( 'VV_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'VV_PLUGIN_URL', plugin_dir_url( __FILE__ ) );

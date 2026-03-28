@@ -1,0 +1,260 @@
+# Vem vare? — Translation Template
+# Copyright (C) 2026 Vem vare? Team
+# This file is distributed under the same license as the Vem vare? plugin.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vem vare? 1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-28 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-vv-admin.php
+msgid "Åtkomst nekad."
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Sök IP, DNS, stad, land..."
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Exportera CSV"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Uppdatera"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Totalt besökare"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Idag"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Länder"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Kommentarer"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Besökare per land"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Visa alla"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Land:"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Alla länder"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Period:"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Alla"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Senaste 7 dagarna"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Senaste 30 dagarna"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Kommentar:"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Med kommentar"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Utan kommentar"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Sortera:"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Senaste besök"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Första besök"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Flest besök"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "IP-adress"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Reverse DNS"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Organisation"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Stad"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Land"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Besök"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Senaste besök"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Laddar besökare..."
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Kommentar"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Skriv en kommentar om denna besökare..."
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Avbryt"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Spara kommentar"
+msgstr ""
+
+#: includes/class-vv-admin.php
+msgid "Besökarspårning för WordPress"
+msgstr ""
+
+#. JS i18n strings passed via wp_localize_script
+#: includes/class-vv-admin.php (i18n array)
+msgid "Inga besökare hittades."
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Kunde inte ladda data."
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Data uppdaterad"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Kommentar sparad!"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Kunde inte spara: "
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Besökare borttagen"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Kunde inte ta bort"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Är du säker på att du vill ta bort denna besökare?"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "CSV exporterad!"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "+ Lägg till"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "besökare"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Just nu"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "min sedan"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "tim sedan"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Plats"
+msgstr ""
+
+#: includes/class-vv-admin.php (i18n array)
+msgid "Topp länder"
+msgstr ""
+
+#. AJAX error messages
+#: includes/class-vv-ajax.php
+msgid "Ej behörig"
+msgstr ""
+
+#: includes/class-vv-ajax.php
+msgid "Ogiltig nonce"
+msgstr ""
+
+#: includes/class-vv-ajax.php
+msgid "Ogiltigt ID"
+msgstr ""
+
+#: includes/class-vv-ajax.php
+msgid "Kommentar sparad"
+msgstr ""
+
+#: includes/class-vv-ajax.php
+msgid "Kunde inte spara kommentar"
+msgstr ""
+
+#: includes/class-vv-ajax.php
+msgid "Besökare borttagen"
+msgstr ""
+
+#: includes/class-vv-ajax.php
+msgid "Kunde inte ta bort"
+msgstr ""
+
+#: includes/class-vv-ajax.php (CSV headers)
+msgid "Första besök"
+msgstr ""

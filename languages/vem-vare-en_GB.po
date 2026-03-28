@@ -1,0 +1,185 @@
+# Vem vare? — English Translation
+# Copyright (C) 2026 Vem vare? Team
+# This file is distributed under the same license as the Vem vare? plugin.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Vem vare? 1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-28 00:00+0000\n"
+"PO-Revision-Date: 2026-03-28 00:00+0000\n"
+"Last-Translator: Vem vare? Team\n"
+"Language-Team: English\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Åtkomst nekad."
+msgstr "Access denied."
+
+msgid "Sök IP, DNS, stad, land..."
+msgstr "Search IP, DNS, city, country..."
+
+msgid "Exportera CSV"
+msgstr "Export CSV"
+
+msgid "Uppdatera"
+msgstr "Refresh"
+
+msgid "Totalt besökare"
+msgstr "Total visitors"
+
+msgid "Idag"
+msgstr "Today"
+
+msgid "Länder"
+msgstr "Countries"
+
+msgid "Kommentarer"
+msgstr "Comments"
+
+msgid "Besökare per land"
+msgstr "Visitors by country"
+
+msgid "Visa alla"
+msgstr "Show all"
+
+msgid "Land:"
+msgstr "Country:"
+
+msgid "Alla länder"
+msgstr "All countries"
+
+msgid "Period:"
+msgstr "Period:"
+
+msgid "Alla"
+msgstr "All"
+
+msgid "Senaste 7 dagarna"
+msgstr "Last 7 days"
+
+msgid "Senaste 30 dagarna"
+msgstr "Last 30 days"
+
+msgid "Kommentar:"
+msgstr "Comment:"
+
+msgid "Med kommentar"
+msgstr "With comment"
+
+msgid "Utan kommentar"
+msgstr "Without comment"
+
+msgid "Sortera:"
+msgstr "Sort:"
+
+msgid "Senaste besök"
+msgstr "Latest visit"
+
+msgid "Första besök"
+msgstr "First visit"
+
+msgid "Flest besök"
+msgstr "Most visits"
+
+msgid "IP-adress"
+msgstr "IP address"
+
+msgid "Reverse DNS"
+msgstr "Reverse DNS"
+
+msgid "Organisation"
+msgstr "Organisation"
+
+msgid "Stad"
+msgstr "City"
+
+msgid "Land"
+msgstr "Country"
+
+msgid "Besök"
+msgstr "Visits"
+
+msgid "Laddar besökare..."
+msgstr "Loading visitors..."
+
+msgid "Kommentar"
+msgstr "Comment"
+
+msgid "Skriv en kommentar om denna besökare..."
+msgstr "Write a comment about this visitor..."
+
+msgid "Avbryt"
+msgstr "Cancel"
+
+msgid "Spara kommentar"
+msgstr "Save comment"
+
+msgid "Besökarspårning för WordPress"
+msgstr "Visitor tracking for WordPress"
+
+msgid "Inga besökare hittades."
+msgstr "No visitors found."
+
+msgid "Kunde inte ladda data."
+msgstr "Could not load data."
+
+msgid "Data uppdaterad"
+msgstr "Data refreshed"
+
+msgid "Kommentar sparad!"
+msgstr "Comment saved!"
+
+msgid "Kunde inte spara: "
+msgstr "Could not save: "
+
+msgid "Besökare borttagen"
+msgstr "Visitor deleted"
+
+msgid "Kunde inte ta bort"
+msgstr "Could not delete"
+
+msgid "Är du säker på att du vill ta bort denna besökare?"
+msgstr "Are you sure you want to delete this visitor?"
+
+msgid "CSV exporterad!"
+msgstr "CSV exported!"
+
+msgid "+ Lägg till"
+msgstr "+ Add"
+
+msgid "besökare"
+msgstr "visitors"
+
+msgid "Just nu"
+msgstr "Just now"
+
+msgid "min sedan"
+msgstr "min ago"
+
+msgid "tim sedan"
+msgstr "hours ago"
+
+msgid "Plats"
+msgstr "Location"
+
+msgid "Topp länder"
+msgstr "Top countries"
+
+msgid "Ej behörig"
+msgstr "Not authorized"
+
+msgid "Ogiltig nonce"
+msgstr "Invalid nonce"
+
+msgid "Ogiltigt ID"
+msgstr "Invalid ID"
+
+msgid "Kommentar sparad"
+msgstr "Comment saved"
+
+msgid "Kunde inte spara kommentar"
+msgstr "Could not save comment"
